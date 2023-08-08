@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#Technologies-Used)
+* [Technologies Used](#TechnologiesUsed)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
@@ -21,7 +21,7 @@
 - Conclusion 3 : Model with Augmentor ( handled Imbalance in the data ), accuracy - 97% , val accuracy - 88%
 
 
-## Technologies Used
+## TechnologiesUsed
 - library - TensorFlow v2.13.0
 - library - Python 3.10
 - library - Keras 2.13
