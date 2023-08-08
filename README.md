@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used]
+* [Technologies Used](#Technologies-Used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
